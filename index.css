@@ -1,0 +1,156 @@
+.navbar-brand {
+    margin-left: 5%;
+    
+    }
+    
+    .container-fluid {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 50px;
+    
+    
+    }
+    
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: gray;
+      color: white;
+      text-align: center;
+      border-top: 8px solid teal;
+    }
+    
+    
+    .bigholder {
+    height: 90%;
+    width: 1000px;
+    position: relative;
+    background: white;
+    margin-top: 50px;
+    padding-top:30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width: 960px;
+    width: 90%;
+    
+    
+    
+    
+    
+    }
+    
+    .responsive {
+        width: 100%;
+        height: auto;
+      }
+    
+      body #alexianavbar {
+    background-color: white !important;
+    color: wheat !important;
+    height: 100%;
+    
+    
+      }
+    
+      body {
+    background-color: lightgray;
+    height: 100%;
+    color: teal;
+    
+    
+      }
+    
+      .navbar-brand {
+    background-color: teal;
+    color: white !important;
+    height: 100%;
+    width: 15%;
+    text-align: center;
+    padding: 2% 1%;
+    margin: 0;
+    margin-left: 10%;
+        
+    }
+    
+      .navbar {
+        padding: 0;
+      }
+    
+    .boxset {
+    
+    border-right: 1px solid gray;
+    
+    }
+    
+    #bodytext {
+    color: gray;
+    
+    
+    }
+    
+    #card1 {
+        background-image: url("image1.jpg");
+      }
+      
+      #card2 {
+        background-image: url("image10.jpg");
+      }
+      #card3 {
+        background-image: url("image3.jpg")
+      }
+      #card4 {
+        background-image: url("image10.jpg")
+      }
+    
+      #card5 {
+        background-image: url("image5.jpg")
+      }
+    
+      #card6 {
+        background-image: url("image6.jpg")
+      }
+    
+      .card {
+        height: 300px;
+        width: 300px;
+        background-size: cover;
+        background-position: center center;
+        margin-right: 110px;
+        margin-bottom: 30px;
+      }
+    
+      .textbanner {
+        position: relative;
+        color: white;
+        background: black;
+        height: 150px;
+        width: 300px;
+        text-align: center;
+        top: 50%;
+        line-height: 43px;
+      }
+    
+      .btn {
+    color: white;
+    background-color: teal;
+    
+      }
+      
+      
+      .btn-primary{
+    
+    
+      }
+    
+      @media (max-width: 800px) {
+      .navbar-brand {
+    width: 40%;
+    
+    
+      }
+    
+    
+      }
